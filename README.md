@@ -28,12 +28,10 @@ source ~/.bashrc
 
 # Expecting Contributions :monocle_face:
 
-R3C0Nizer is expecting contributions for improving the script such as 
+Reconizer is expecting contributions for improving the script such as 
 
  - Adding more assets
  
-# Demo :boom:
-![Demo](demo.png)
 
 -------
 
